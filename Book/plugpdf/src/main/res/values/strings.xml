@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- PlugPDF Text -->
+    <string name="text_search_progress">поиск</string>
+    <string name="text_search_found_fail">не найдено</string>
+    <string name="text_ok">Да</string>
+    <string name="text_cancel">Нет</string>
+    <string name="text_password">пароль</string>
+    <string name="text_rotate_lock">rotation lock.</string>
+    <string name="text_rotate_unlock">rotation unlock.</string>
+    <string name="text_annot_menu_item_delete">удалить</string>
+    <string name="text_annot_menu_item_edit">редактировать</string>
+    <string name="text_annot_menu_item_color">цвет</string>
+    <string name="text_annot_menu_item_opacity">ясность</string>
+    <string name="text_annot_menu_item_width">Width</string>
+    <string name="text_annot_menu_item_color_white">White</string>
+    <string name="text_annot_menu_item_color_black">Black</string>
+    <string name="text_annot_menu_item_color_red">Red</string>
+    <string name="text_annot_menu_item_color_orange">Orange</string>
+    <string name="text_annot_menu_item_color_yellow">Yellow</string>
+    <string name="text_annot_menu_item_color_green">Green</string>
+    <string name="text_annot_menu_item_color_blue">Blue</string>
+    <string name="text_annot_menu_item_color_purple">Purple</string>
+    <string name="text_annot_menu_item_opacity_10">10%</string>
+    <string name="text_annot_menu_item_opacity_25">25%</string>
+    <string name="text_annot_menu_item_opacity_50">50%</string>
+    <string name="text_annot_menu_item_opacity_75">75%</string>
+    <string name="text_annot_menu_item_opacity_100">100%</string>
+    <string name="text_annot_menu_item_width_1">1Px</string>
+    <string name="text_annot_menu_item_width_3">3Px</string>
+    <string name="text_annot_menu_item_width_5">5Px</string>
+    <string name="text_annot_menu_item_width_7">7Px</string>
+    <string name="text_annot_menu_item_width_9">9Px</string>
+    <string name="text_annot_menu_item_width_11">11Px</string>
+
+    <!-- Text -->
+    <string name="text_search">поиск</string>
+    <string name="text_color">цвет</string>
+    <string name="text_fill_color">цвет заливки</string>
+    <string name="text_opacity">помутнение</string>
+    <string name="text_width">ширина</string>
+    <string name="text_straight">прямо</string>
+    <string name="text_notice">уведомление</string>
+    <string name="text_url_downloading">пожалуйста, подождите</string>
+	
+    <!-- Button Label -->
+    <string name="label_save_button">сахранить</string>
+    <string name="label_back_button">назад</string>
+    <string name="label_erase_button">удалить</string>
+    <string name="label_change_button">редактировать</string>
+	<string name="label_outline_title">задать заголовок:</string>
+    <string name="text_squiggly">закорючки</string>
+
+    <string name="bottom_menu_thumbnail">Нижняя миниатюра</string>
+    <string name="add">Добавить</string>
+    <string name="remove">Удалить</string>
+
+</resources>
